@@ -1,4 +1,4 @@
-# docker-php8-nginx-postgres-composer
+# docker-php8-GD-library-nginx-postgres-composer
 
 Docker Compose configuration to run PHP8 (including GD-Library) with Nginx, PHP-FPM, PostgreSQL 10.1 and Composer.
 
