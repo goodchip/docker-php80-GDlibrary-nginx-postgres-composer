@@ -1,9 +1,6 @@
 # docker-php8-nginx-postgres-composer
 
-Docker Compose configuration to run PHP 8 with Nginx, PHP-FPM, PostgreSQL 10.1 and Composer.
-
-*I update PHP version and fix some error at [ineat/docker-php-nginx-postgres-composer](https://github.com/ineat/docker-php-nginx-postgres-composer)  
-I remove some php-extensions (gd, mcrypt, etc...), because I don't need it.*
+Docker Compose configuration to run PHP8 (including GD-Library) with Nginx, PHP-FPM, PostgreSQL 10.1 and Composer.
 
 ## How to use it
 
